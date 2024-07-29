@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\1\source\repos\y\y\Source.cpp(183,11): warning C4101: count: неиспользованная локальная переменная
+C:\Users\1\source\repos\y\y\Source.cpp(183,6): warning C4101: age: неиспользованная локальная переменная
+  y.vcxproj -> C:\Users\1\source\repos\y\x64\Debug\y.exe

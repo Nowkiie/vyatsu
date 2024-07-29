@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\1\source\repos\y\y\Source.cpp(21,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  LINK : не найден или не выполнена сборка C:\Users\1\source\repos\y\Debug\y.exe при последней инкрементной компоновке; выполняется полная компоновка
+  y.vcxproj -> C:\Users\1\source\repos\y\Debug\y.exe

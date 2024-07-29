@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Users\1\source\repos\n\n\Source.cpp(20,31): warning C4244: аргумент: преобразование "float" в "DWORD", возможна потеря данных
+C:\Users\1\source\repos\n\n\Source.cpp(32,31): warning C4244: аргумент: преобразование "float" в "DWORD", возможна потеря данных
+C:\Users\1\source\repos\n\n\Source.cpp(43,31): warning C4244: аргумент: преобразование "float" в "DWORD", возможна потеря данных
+C:\Users\1\source\repos\n\n\Source.cpp(79,33): warning C4244: аргумент: преобразование "float" в "DWORD", возможна потеря данных
+C:\Users\1\source\repos\n\n\Source.cpp(91,33): warning C4244: аргумент: преобразование "float" в "DWORD", возможна потеря данных
+C:\Users\1\source\repos\n\n\Source.cpp(103,33): warning C4244: аргумент: преобразование "float" в "DWORD", возможна потеря данных
+  LINK : не найден или не выполнена сборка C:\Users\1\source\repos\n\Debug\n.exe при последней инкрементной компоновке; выполняется полная компоновка
+  n.vcxproj -> C:\Users\1\source\repos\n\Debug\n.exe

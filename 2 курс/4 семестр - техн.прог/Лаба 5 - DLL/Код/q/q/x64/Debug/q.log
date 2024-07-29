@@ -1,0 +1,23 @@
+﻿  Assembling Source1.asm...
+Source1.asm(1): error A2008: syntax error : .
+Source1.asm(4): error A2070: invalid instruction operands
+Source1.asm(5): error A2070: invalid instruction operands
+Source1.asm(6): error A2070: invalid instruction operands
+Source1.asm(7): error A2070: invalid instruction operands
+Source1.asm(30): error A2070: invalid instruction operands
+Source1.asm(31): error A2070: invalid instruction operands
+Source1.asm(32): error A2070: invalid instruction operands
+Source1.asm(33): error A2070: invalid instruction operands
+Source1.asm(36): warning A6004: procedure argument or local not referenced : d
+Source1.asm(36): warning A6004: procedure argument or local not referenced : n
+Source1.asm(36): warning A6004: procedure argument or local not referenced : number
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\BuildCustomizations\masm.targets(70,5): error MSB3721: выход из команды "ml64.exe /c /nologo /Zi /Fo"x64\Debug\Source1.obj" /W3 /errorReport:prompt  /TaSource1.asm" с кодом "1".
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\BuildCustomizations\masm.targets(70,5): error MSB4018: непредвиденная ошибка при выполнении задачи "MASM".
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\BuildCustomizations\masm.targets(70,5): error MSB4018: System.UnauthorizedAccessException: Отказано в доступе по пути "C:\Users\1\AppData\Local\Temp\tmpe9f1cee1359b44c1a8fd9960b2dc3d75.cmd".
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\BuildCustomizations\masm.targets(70,5): error MSB4018:    в System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\BuildCustomizations\masm.targets(70,5): error MSB4018:    в System.IO.File.InternalDelete(String path, Boolean checkHost)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\BuildCustomizations\masm.targets(70,5): error MSB4018:    в System.IO.File.Delete(String path)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\BuildCustomizations\masm.targets(70,5): error MSB4018:    в Microsoft.Build.Utilities.ToolTask.Execute()
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\BuildCustomizations\masm.targets(70,5): error MSB4018:    в Microsoft.Build.Tasks.Xaml.XamlDataDrivenToolTask.Execute()
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\BuildCustomizations\masm.targets(70,5): error MSB4018:    в Microsoft.Build.BackEnd.TaskExecutionHost.Microsoft.Build.BackEnd.ITaskExecutionHost.Execute()
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\BuildCustomizations\masm.targets(70,5): error MSB4018:    в Microsoft.Build.BackEnd.TaskBuilder.<ExecuteInstantiatedTask>d__26.MoveNext()
