@@ -1,0 +1,116 @@
+Hello, I'm Chad Marin, your instructor.
+Здравствуйте, я Чад Марин, ваш инструктор.
+
+Have you ever wondered what's inside a computer case?
+Интересовались ли вы когда-нибудь, что внутри ситсемного блока?
+
+Or have you actually opened one to see the dust, the power supply, all the cables and circuits and all that in there?
+Или может открывали его, чтобы увидеть пыль, блок питания, все кабели и цепи и всё-всё внутри?
+
+This video, I want to discuss the different components, all combined together to make up a computer. 
+В этом видео я хочу рассказать о различных компоненах, из которых составлен компьютер.
+
+One thing we want to keep in mind is a computer is a machine.
+То, что компьютер - это машина, нужно держать в голове.
+
+It will do nothing until we tell it what to do, either with the mouse or with the keyboard or other input devices.
+Он ничего не сделает, пока мы не укажем ему, либо с помощью мыши, либо клавиатуры, либо других устройств ввода.
+
+So, to start, the motherboard.
+Так, для начала, материнская плата.
+
+This is the most important component in a computer.
+Это самый важный компонент компьютера.
+
+This is the main circuit board.
+Это главная печатная плата.
+
+All of these components connect to this in some way.
+Все эти компоненты подключаются к ней неким образом.
+
+The CPU, the central processing unit.
+ЦПУ, центральное процессорное устройство.
+
+This is the brain of the computer.
+Это мозг копмьютера.
+
+You've heard of three gigahertz.
+Вы слыхали о трёх гигагерцах.
+
+Well, that's three billion cycles a second.
+Что ж, это три миллиарда тактов в секунду.
+
+That's how fast this machine is thinking.
+Настолько быстро эта машина думает.
+
+The CPU connects right there in the motherboard.
+ЦПУ подключается к материнской плате здесь.
+
+Then we have a heat sink.
+Затем идёт радиатор.
+
+Remember, three billion cyles a second.
+Помните, три миллиарда тактов  в секунду.
+
+That's a lot of thinking, that's fast and it gets hot.
+Множество очень быстрых операций, и он нагревается.
+
+This dissipates the heat in some way and then it also has a fan that keeps this CPU cooler.
+Он рассеивает тепло особым образом, а также есть кулер, который охлаждает ЦПУ.
+
+And then this fits right on top of the CPU like that.
+Его устанавливают над ЦПУ вот так.
+
+Then we have memory.
+Затем идёт память.
+
+It's also called Random Access Memory.
+Она также называется память случайного доступа.
+
+This is short-term memory.
+Это временная память.
+
+Basically it's, if you're working on a computer program and you're working on some stuff and then you turn the computer off.
+По сути, если вы работаете над чем-нибудь в программе, а затем выключаете кмомпьютер.
+
+Guess what?
+Угадайте, что?
+
+It's gone ... if you don't save it somewhere else and I'll talk about that in a minute.
+Всё пропадает ... если вы не сохраните всё где-нибудь ещё, о чём я расскажу через минуту.
+
+The memory and the CPU communicate together and the memory goes right there in that slot.
+Память и ЦПУ связаны друг с другом, а память ставится прямо в этот слот.
+
+Hard disk drive.
+Жёсткий диск.
+
+This is permanent storage.
+Это постоянный накопитель.
+
+This also connects to the motherboard.
+Он также подключается к материнской плате.
+
+So remember, if you're working on a program to save your work to the hard drive before turning off your computer.
+Так что помните, когда вы работаете в программе, сохранять работу на жёсткий диск перед выключением компьюютера.
+
+Also we have a video card.
+Также есть видеокарта.
+
+They connect on this slot on the motherboard.
+Они подключаются в этот слот материнской платы.
+
+This is how the motherboard and the monitor, your eyes, you know, your window to what you're actually doing, is how you actually see.
+Вот так материнская плата и монитор, ваши глаза, знаете, как окошко к тому, что вы делаете, и как это всё видно в реальности. 
+
+Also, older components, like a modem, which is how you connect to the Internet, that also connects in one of these slots.
+Также, более старые компоненты, как например, модем, который позволяет получить доступ в Интернет, также подключается в один из этих разъёмов.
+
+The newer motherboards, like this one in my hand, has got components like this that are acutally stuck on, or embedded on the motherboard.
+В новые материнские платы, как вот эта у меня в руках, такие компоненты приклеены или встроены.
+
+You can see we have the speaker outputs, we also have connections for the keyboard and the mouse, printer connections, external devices, even something like a USB thumb drive can plug into the USB ports or a camera, sometimes a video camera.
+Здесь можно заметить выходы на динамики, также разъёмы для клавиатуры и мыши, принтера, внешних устройств, даже устройство формата USB устройства может быть подключено в один из USB-портов, или камера, иногда видеокамера.
+
+Remember, this machine here does nothing until we tell it to do something.
+Помните, эта машина не сделает ничего, пока мы не скажем ей.
